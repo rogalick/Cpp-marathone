@@ -1,8 +1,0 @@
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/CMakeFiles/rebuild_cache.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/CMakeFiles/edit_cache.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/app/CMakeFiles/rebuild_cache.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/app/CMakeFiles/edit_cache.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/app/CMakeFiles/dragonborn.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/app/Utils/CMakeFiles/rebuild_cache.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/app/Utils/CMakeFiles/edit_cache.dir
-/Users/dgoncharen/Desktop/sprints/sprint04/t02/build/app/Utils/CMakeFiles/algorithmUtils.dir
