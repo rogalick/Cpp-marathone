@@ -1,0 +1,1 @@
+add_executable(simpleSort main.cpp simplesort.cpp simplesort.h)

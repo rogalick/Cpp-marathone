@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../utils/algorithmUtils.h
+tuple
+-
+iostream
+-
+
+/Users/dgoncharen/Desktop/sprints/sprint04/app/main.cpp
+algorithmUtils.h
+/Users/dgoncharen/Desktop/sprints/sprint04/app/algorithmUtils.h
+vector
+-
+

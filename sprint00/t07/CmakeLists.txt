@@ -1,0 +1,1 @@
+add_executable(inventory main.cpp ./src/inventory.cpp ./src/inventory.h)

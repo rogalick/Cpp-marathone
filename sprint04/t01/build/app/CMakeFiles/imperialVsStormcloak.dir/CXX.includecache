@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/src/Axe.h
+
+../app/src/ImperialSoldier.h
+iostream
+-
+
+../app/src/StormcloakSoldier.h
+
+../app/src/Sword.h
+
+/Users/dgoncharen/Desktop/sprints/sprint04/t01/app/main.cpp
+iostream
+-
+sstream
+-
+ImperialSoldier.h
+/Users/dgoncharen/Desktop/sprints/sprint04/t01/app/ImperialSoldier.h
+StormcloakSoldier.h
+/Users/dgoncharen/Desktop/sprints/sprint04/t01/app/StormcloakSoldier.h
+Sword.h
+/Users/dgoncharen/Desktop/sprints/sprint04/t01/app/Sword.h
+Axe.h
+/Users/dgoncharen/Desktop/sprints/sprint04/t01/app/Axe.h
+

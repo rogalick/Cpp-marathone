@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dgoncharen/Desktop/sprints/sprint04/t02/app/Utils/algorithmUtils.h
+utility
+-
+algorithm
+-
+iostream
+-
+vector
+-
+iterator
+-
+numeric
+-
+
+/Users/dgoncharen/Desktop/sprints/sprint04/t02/app/Utils/help.cpp
+algorithmUtils.h
+/Users/dgoncharen/Desktop/sprints/sprint04/t02/app/Utils/algorithmUtils.h
+iostream
+-
+
