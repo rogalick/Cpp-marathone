@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/draugr.dir/main.cpp.o CMakeFiles/draugr.dir/src/draugr.cpp.o -o draugr  Utils/libalgorithmUtils.a 

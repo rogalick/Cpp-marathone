@@ -1,0 +1,8 @@
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/CMakeFiles/rebuild_cache.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/CMakeFiles/edit_cache.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/app/CMakeFiles/rebuild_cache.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/app/CMakeFiles/edit_cache.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/app/CMakeFiles/draugr.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/app/Utils/CMakeFiles/rebuild_cache.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/app/Utils/CMakeFiles/edit_cache.dir
+/Users/dgoncharen/Desktop/sprints/sprint05/t03/build/app/Utils/CMakeFiles/algorithmUtils.dir
