@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libalgorithmUtils.a CMakeFiles/algorithmUtils.dir/help.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libalgorithmUtils.a
